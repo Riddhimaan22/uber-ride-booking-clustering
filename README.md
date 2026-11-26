@@ -173,4 +173,4 @@ GitHub: https://github.com/Riddhimaan22
 
 ---
 
-This project was developed as part of a university Data Mining / Machine Learning project.
+This project was developed as part of a university Machine Learning project.
