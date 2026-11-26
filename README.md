@@ -147,6 +147,13 @@ Ensure the dataset is available at `Dataset/ncr_ride_bookings.csv`.
 
 ## Dataset Attribution and License
 
+This project uses the [Uber Ride Analytics Dashboard](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard) dataset created and published by **Yash Dev Laddha** on Kaggle.
+
+- **Source:** [Kaggle – Uber Ride Analytics Dashboard](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard)
+- **Author:** Yash Dev Laddha
+- **Usage in This Project:** Used strictly for academic/educational analysis to perform time-of-day clustering (K-Means, DBSCAN, and Hierarchical Clustering) on ride booking timestamps and hourly trip patterns.
+- **Note:** Raw dataset files are not redistributed in this repository; please download the CSV directly from the Kaggle link above to run the notebooks/scripts.
+
 The dataset is distributed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
 
 Original dataset source and creator: **[Insert original dataset source and creator attribution]**
